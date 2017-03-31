@@ -1,0 +1,22 @@
+{
+  "name": "blogassignment",
+  "version": "1.0.0",
+  "description": "due 3/28",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriciajoyce/BlogAssignment.git"
+  },
+  "author": "Joy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patriciajoyce/BlogAssignment/issues"
+  },
+  "homepage": "https://github.com/patriciajoyce/BlogAssignment#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
